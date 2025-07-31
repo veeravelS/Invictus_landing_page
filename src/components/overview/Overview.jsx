@@ -1,6 +1,6 @@
 import overview_icon from "../../assets/overview_icon.png";
 import overlay_bg from "../../assets/overview_overlay_bg.png";
-import path from "../../assets/path.png";
+import path from "../../assets/Path.png";
 import star_bg from "../../assets/star_bg.svg"
 
 const Overview = () => {

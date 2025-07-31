@@ -217,7 +217,7 @@ const Pricing = () => {
       <img
         src={overlay_bg}
         alt=""
-        className="absolute md:-top-[300px] right-[220px]"
+        className="absolute md:-top-[450px] right-[220px]"
       />
       <img
         src={pricing_image}

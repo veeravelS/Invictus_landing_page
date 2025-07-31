@@ -8,7 +8,7 @@ import Pricing from "./components/pricing/Pricing"
 
 function App() {
   return (
-      <div className="min-h-screen p-2 flex flex-col items-center justify-start">
+      <div className="min-h-screen overflow-hidden p-2 flex flex-col items-center justify-start">
       <HeroSection />
       <Overview />
       <Contact />

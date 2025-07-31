@@ -1,5 +1,5 @@
 import Invictus_logo from "../assets/invictus_logo.svg";
-import Youtube_logo from "../assets/Youtube_icon.svg";
+import Youtube_logo from "../assets/YouTube_icon.svg";
 import Instagram_logo from "../assets/Instagram_icon.svg";
 import Twitter_logo from "../assets/Twitter_icon.svg";
 import LinkedIn_logo from "../assets/LinkedIn_icon.svg";

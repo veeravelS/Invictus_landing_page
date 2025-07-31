@@ -7,7 +7,7 @@ import contact_overlay from "../../assets/contact_overlay_bg.png"
 const Contact = () => {
   return (
     <div className="w-full md:w-[75%] lg:w-[60%] my-[90px] relative mx-auto h-full flex flex-col justify-start items-start gap-3">
-        <img src={contact_overlay} alt="" className="absolute -bottom-[300px] w-[70%] -left-[260px]" />
+        <img src={contact_overlay} alt="" className="absolute -bottom-[35%] w-[70%] -left-[35%]" />
       <div className="w-full flex justify-center items-center md:justify-start md:items-start">
           <img
             src={contact_image1}

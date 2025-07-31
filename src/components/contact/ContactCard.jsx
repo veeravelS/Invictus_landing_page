@@ -7,7 +7,7 @@ import contact_image2 from "../../assets/contact_image2.png";
 const ContactCard = () => {
   return (
     <div className="relative flex flex-col justify-center items-center md:flex-row gap-1 mt-[400px] md:mt-10 h-[400px]">
-      <div className="absolute right-[60px] -top-[385px]  md:-top-[202px]">
+      <div className="absolute right-[60px] -top-[96%]  md:-top-[50.5%]">
         <img src={contact_image2} alt="" className="w-[130px]  bg-contain " />
       </div>
       <div className="flex flex-col h-full w-[80%] mb-5 md:mb-0 md:w-[430px] bg-black text-white rounded-xl p-14">

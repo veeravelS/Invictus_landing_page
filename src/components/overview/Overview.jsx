@@ -57,16 +57,16 @@ const Overview = () => {
       <img
         src={overlay_bg}
         alt=""
-        className="absolute bottom-10 -right-[220px]"
+        className="absolute bottom-[20%] -right-[24%]"
       />
-      <img src={path} alt="" className="absolute hidden lg:block top-[160px] -right-6 w-[99%]" />
+      <img src={path} alt="" className="absolute hidden lg:block top-[17%] -right-6 w-[99%]" />
       <img
-        className="absolute -top-[100px] left-[200px] w-4 h-4 bg-contain"
+        className="absolute -top-[100px] left-[30%] w-4 h-4 bg-contain"
         src={star_bg}
         alt=""
       />
        <img
-        className="absolute -top-[50px] right-[200px] w-4 h-4 bg-contain"
+        className="absolute -top-[50px] right-[30%] w-4 h-4 bg-contain"
         src={star_bg}
         alt=""
       />

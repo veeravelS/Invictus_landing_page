@@ -28,14 +28,17 @@ const HeroSection = () => {
           style={{ backgroundImage: `url(${herobg_image})` }}
         ></div>
         <div className="mt-20 md:mt-10">
-          <img src={herosection_image1} className="h-[200px] md:h-[265px]" alt="" />
+          <img
+            src={herosection_image1}
+            className="h-[200px] md:h-[265px]"
+            alt=""
+          />
         </div>
         <div className="w-full relative flex-1 h-full pt-[300px] md:pt-[200px]">
           {/* Background with overlay */}
 
           <div className="relative z-10 grid grid-cols-2 grid-rows-[auto,auto] h-full container mx-auto gap-2 justify-end items-center">
             {/* First column */}
-
             <div className="flex relative col-span-2 md:col-span-1 justify-end items-end ">
               <img
                 src={herosection_image2}
@@ -52,12 +55,12 @@ const HeroSection = () => {
               <div className="">
                 <img
                   src={herosection_image5}
-                  className="h-[100px] absolute top-14 -left-2 lg:left-[190px] md:top-5 object-contain"
+                  className="h-[100px] absolute top-14 -left-2 lg:left-[43%] md:top-5 object-contain"
                   alt="Quality"
                 />
                 <img
                   src={herosection_image6}
-                  className="w-[150px] h-[100px] top-16 left-12 absolute lg:left-[250px] md:top-7 object-contain"
+                  className="w-[150px] h-[100px] top-16 left-12 absolute lg:left-[55%] md:top-7 object-contain"
                   alt="Quality"
                 />
               </div>

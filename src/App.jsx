@@ -1,5 +1,5 @@
 import Contact from "./components/contact/Contact"
-import Footer from "./components/footer"
+import Footer from "./components/Footer"
 import HeroSection from "./components/hero/HeroSection"
 import JoinInvictus from "./components/joinInvictus/JoinInvictus"
 import Overview from "./components/overview/Overview"

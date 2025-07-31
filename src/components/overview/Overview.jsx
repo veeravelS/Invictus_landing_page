@@ -59,7 +59,7 @@ const Overview = () => {
         alt=""
         className="absolute bottom-10 -right-[220px]"
       />
-      <img src={path} alt="" className="absolute hidden lg:block top-[110px] -right-2 w-[99%]" />
+      <img src={path} alt="" className="absolute hidden lg:block top-[160px] -right-8 w-[99%]" />
       <img
         className="absolute -top-[100px] left-[200px] w-4 h-4 bg-contain"
         src={star_bg}
@@ -73,7 +73,7 @@ const Overview = () => {
       {OverviewContent.map((item, index) => (
         <div
           key={index}
-          className="w-[200px] mt-10 md:mt-[65px] border-1 flex flex-col text-center justify-center items-center relative"
+          className="w-[200px] mt-10 md:mt-[105px] border-1 flex flex-col text-center justify-center items-center relative"
         >
           <div className="relative rounded-full flex items-center justify-center bg-[#1D1E33] w-[90px] h-[90px]">
             <p className="absolute top-0 right-0 w-6 text-sm pt-[2px] h-6 text-white bg-[linear-gradient(304.07deg,#283DAA_10.34%,#2AB182_115.99%)] rounded-full text-center">

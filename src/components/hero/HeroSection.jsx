@@ -52,12 +52,12 @@ const HeroSection = () => {
               <div className="">
                 <img
                   src={herosection_image5}
-                  className="h-[100px] absolute top-14 -left-2 lg:left-[145px] md:top-5 object-contain"
+                  className="h-[100px] absolute top-14 -left-2 lg:left-[190px] md:top-5 object-contain"
                   alt="Quality"
                 />
                 <img
                   src={herosection_image6}
-                  className="w-[150px] h-[100px] top-16 left-12 absolute lg:left-[200px] md:top-7 object-contain"
+                  className="w-[150px] h-[100px] top-16 left-12 absolute lg:left-[250px] md:top-7 object-contain"
                   alt="Quality"
                 />
               </div>
@@ -65,7 +65,7 @@ const HeroSection = () => {
                 Top-quality designs regularly
               </p>
               <img
-                className="absolute top-1 left-[210px] w-4 h-4 bg-contain"
+                className="absolute top-1 left-[255px] w-4 h-4 bg-contain"
                 src={star_bg}
                 alt=""
               />

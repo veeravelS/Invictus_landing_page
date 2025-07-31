@@ -7,11 +7,13 @@ import contact_image2 from "../../assets/contact_image2.png"
 const ContactCard = () => {
   return (
     <div className="relative flex flex-col justify-center items-center md:flex-row gap-1 mt-[400px] md:mt-10 h-[400px]">
-        <div className="absolute right-[60px] -top-[385px]  md:-top-[218px]">
+      
+        <div className="absolute right-[60px] -top-[385px]  md:-top-[202px]">
             <img src={contact_image2} alt="" className="w-[130px]  bg-contain " />
         </div>
       <div className="flex flex-col h-full w-[80%] mb-5 md:mb-0 md:w-[430px] bg-black text-white rounded-xl p-14">
         <img src={quote_icon} alt="" className="w-12 h-8 bg-contain" />
+ <div className="absolute top-0 left-0 w-full h-[40%] bg-gradient-to-br from-white via-white/30 to-transparent opacity-20"></div>
         <div className="mt-10">
           <p className="text-gray-300 text-lg leading-none w-full">
             “The amount of work we have is daunting. It’s nice to know that you

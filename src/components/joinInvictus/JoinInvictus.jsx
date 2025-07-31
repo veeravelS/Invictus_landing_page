@@ -1,5 +1,5 @@
 import arrow_right from "../../assets/arrow-right_join.png";
-import join_invictus_bg from "../../assets/join_invictus_bg.png";
+import join_invictus_bg from "../../assets/Join_invictus_bg.png";
 import join_invictus_arrow from "../../assets/join_invictus_arrow.png";
 import telephone from "../../assets/telephone.png";
 import invictus_logo from "../../assets/invictus_logo_join.png"

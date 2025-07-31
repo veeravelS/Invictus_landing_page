@@ -59,7 +59,7 @@ const Overview = () => {
         alt=""
         className="absolute bottom-10 -right-[220px]"
       />
-      <img src={path} alt="" className="absolute hidden lg:block top-[160px] -right-8 w-[99%]" />
+      <img src={path} alt="" className="absolute hidden lg:block top-[160px] -right-6 w-[99%]" />
       <img
         className="absolute -top-[100px] left-[200px] w-4 h-4 bg-contain"
         src={star_bg}
